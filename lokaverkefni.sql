@@ -217,8 +217,8 @@ FROM MOVIE, RENTAL, DETAILRENTAL, VIDEO
 		AND DETAILRENTAL.VID_NUM = VIDEO.VID_NUM 
 	ORDER BY RENTAL.RENT_NUM, MOVIE_TITLE;
 
-
-
+#21
+#Finished in school but forgot to put it on github
 
 
 
