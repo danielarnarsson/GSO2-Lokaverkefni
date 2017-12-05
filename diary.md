@@ -19,3 +19,6 @@ Finished question 21 but forgot to put it on github
 
 03-12-2017
 Finished question 19 and 24
+
+05-12-2017:
+Finished questions 21, 25, 26, 27, 28
