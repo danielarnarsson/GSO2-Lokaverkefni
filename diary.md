@@ -22,3 +22,6 @@ Finished question 19 and 24
 
 05-12-2017:
 Finished questions 21, 25, 26, 27, 28
+
+07-12-2017:
+Added screenshots and select statements
